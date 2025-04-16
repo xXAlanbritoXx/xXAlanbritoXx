@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @xXAlanbritoXx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Alan
+- 👀 I’m interested in Web Development
+- 📫 How to reach me 
+email: kevin9abel5@gmail.com
